@@ -1,0 +1,239 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+/* Header */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 5%;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    right: 0;
+    z-index: 1000;
+    background: black;
+}
+
+.logo {
+    cursor: pointer;
+}
+
+.nav_links {
+    list-style: none;
+}
+
+.nav_links li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.nav_links li a {
+    transition: all 0.3s ease 0s;
+    color: white;
+    text-decoration: none;
+}
+
+.nav_links li a:hover {
+    color: #0088a9;
+}
+
+button {
+    padding: 9px 25px;
+    background-color: rgba(0, 136, 169, 1);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+button:hover {
+    background-color: rgba(0, 136, 169, 0.8);
+}
+
+/* Landing */
+.landing {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(to top, rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
+        url('Blue Fish Hd Widescreen 1280x800 pixel Nature HD Wallpaper.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.c3 {
+    width: 90%;
+    color: white;
+    position: absolute;
+    top: 58%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.c3 h1 {
+    font-size: 70px;
+}
+
+.word {
+    font-size: 100px;
+}
+
+.explore {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 22%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+}
+
+
+@media screen and (max-width: 1000px) {
+    .c3 {
+        width: 90%;
+        color: #fff;
+        position: absolute;
+        top: 65%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+    }
+
+    .c3 h1 {
+        font-size: 35px;
+    }
+
+    .word {
+        font-size: 50px;
+    }
+}
+
+/* Predict */
+.predict {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(to top, rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
+        url('f7a9b5f04b08fcc995d4509ce5bd902287d4b5b1.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.predict_word {
+    position: relative;
+    color: white;
+    font-size: 2em; /* Adjust font size as needed */
+    margin-bottom: 20px; /* Add some space below the heading */
+    text-align: center;
+    top: 40px; /* Adjust the initial positioning for larger screens */
+
+    @media screen and (max-width: 1000px) {
+        font-size: 1.5em; /* Adjust font size for smaller screens */
+        top: 25px; /* Adjust the positioning for smaller screens */
+    }
+
+    @media screen and (max-width: 600px) {
+        font-size: 1.2em; /* Further adjust font size for even smaller screens */
+        top: 15px; /* Further adjust the positioning for even smaller screens */
+    }
+}
+.text {
+    font-size: 80px; /* Initial font size for larger screens */
+
+    @media screen and (max-width: 1000px) {
+        font-size: 60px; /* Adjust font size for screens with a maximum width of 1000px */
+    }
+
+    @media screen and (max-width: 600px) {
+        font-size: 40px; /* Further adjust font size for screens with a maximum width of 600px */
+    }
+}
+input {
+    margin: 10px 0;
+    font-size: 20px;
+    color: white;
+    display: block; /* Ensure the input is a block element */
+    margin: 85px auto; /* Center the input horizontally */
+
+    /* Responsive adjustments */
+    @media screen and (max-width: 1000px) {
+        font-size: 16px; /* Adjust font size for screens with a maximum width of 1000px */
+        margin: 50px auto; /* Adjust margin for better positioning on smaller screens */
+    }
+
+    @media screen and (max-width: 600px) {
+        font-size: 14px; /* Further adjust font size for screens with a maximum width of 600px */
+        margin: 30px auto; /* Further adjust margin for better positioning on even smaller screens */
+    }
+}
+
+
+.btn-predict {
+    font-size: 21px;
+    display: block; /* Ensure the button is a block element */
+    margin: -50px auto; /* Center the button horizontally */
+
+    /* Responsive adjustments */
+    @media screen and (max-width: 1000px) {
+        font-size: 18px; /* Adjust font size for screens with a maximum width of 1000px */
+        margin: -30px auto; /* Adjust margin for better positioning on smaller screens */
+    }
+
+    @media screen and (max-width: 600px) {
+        font-size: 16px; /* Further adjust font size for screens with a maximum width of 600px */
+        margin: -20px auto; /* Further adjust margin for better positioning on even smaller screens */
+    }
+}
+
+#result {
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    left: 34%;
+    top: 65px;
+
+    /* Responsive adjustments */
+    @media screen and (max-width: 1000px) {
+        font-size: 24px; /* Adjust font size for screens with a maximum width of 1000px */
+        left: 30%; /* Adjust positioning for better alignment on smaller screens */
+        top: 50px; /* Adjust positioning for better alignment on smaller screens */
+    }
+
+    @media screen and (max-width: 600px) {
+        font-size: 20px; /* Further adjust font size for screens with a maximum width of 600px */
+        left: 25%; /* Further adjust positioning for better alignment on even smaller screens */
+        top: 40px; /* Further adjust positioning for better alignment on even smaller screens */
+    }
+}
+
+img {
+    max-width: 13%;
+    display: block; /* Ensure the image is a block element */
+    margin: 92px auto; /* Center the image horizontally */
+    color: transparent;
+
+    /* Responsive adjustments */
+    @media screen and (max-width: 1000px) {
+        max-width: 20%; /* Adjust max-width for screens with a maximum width of 1000px */
+        margin: 60px auto; /* Adjust margin for better positioning on smaller screens */
+    }
+
+    @media screen and (max-width: 600px) {
+        max-width: 30%; /* Further adjust max-width for screens with a maximum width of 600px */
+        margin: 40px auto; /* Further adjust margin for better positioning on even smaller screens */
+    }
+}
+

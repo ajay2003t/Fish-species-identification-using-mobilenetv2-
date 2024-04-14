@@ -1,0 +1,438 @@
+An error occurred: Could not import PIL.Image. The use of `load_img` requires PIL.
+An error occurred: Could not import PIL.Image. The use of `load_img` requires PIL.
+An error occurred: Could not import PIL.Image. The use of `load_img` requires PIL.
+An error occurred: Could not import PIL.Image. The use of `load_img` requires PIL.
+An error occurred: Could not import PIL.Image. The use of `load_img` requires PIL.
+An error occurred: Could not import PIL.Image. The use of `load_img` requires PIL.
+An error occurred: Could not import PIL.Image. The use of `load_img` requires PIL.
+An error occurred: Could not import PIL.Image. The use of `load_img` requires PIL.
+An error occurred: Could not import PIL.Image. The use of `load_img` requires PIL.
+An error occurred: Could not import PIL.Image. The use of `load_img` requires PIL.
+An error occurred: [Errno 2] No such file or directory: ''
+Error loading the model: No file or directory found at 
+An error occurred: [Errno 2] No such file or directory: ''
+An error occurred: [Errno 2] No such file or directory: ''
+An error occurred: Could not import PIL.Image. The use of `load_img` requires PIL.
+An error occurred: Could not import PIL.Image. The use of `load_img` requires PIL.
+An error occurred: [WinError 32] The process cannot access the file because it is being used by another process: 'temp_image.jpg'
+An error occurred: image file is truncated (53 bytes not processed)
+An error occurred: [WinError 32] The process cannot access the file because it is being used by another process: 'temp_image.jpg'
+An error occurred: [WinError 2] The system cannot find the file specified: 'temp_image.jpg'
+An error occurred: name 'train_generator' is not defined
+An error occurred: name 'train_generator' is not defined
+An error occurred: only length-1 arrays can be converted to Python scalars
+An error occurred: [WinError 2] The system cannot find the file specified: 'temp_image.jpg'
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: [WinError 2] The system cannot find the file specified: 'temp_image.jpg'
+Error loading the model: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+Error loading the model: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+Error loading the model: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+Error loading the model: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+Error loading the model: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+Error loading the model: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+Error loading the model: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+Error loading the model: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+An error occurred: name 'model' is not defined
+An error occurred: name 'model' is not defined
+Error loading the model: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+An error occurred: name 'model' is not defined
+Error loading the model: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+Error loading the model: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+Error loading the model: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+Error loading the model: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+An error occurred: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+An error occurred: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+Error loading the model: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+An error occurred: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+An error occurred: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+An error occurred: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+An error occurred: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+Error loading the model: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+Error loading the model: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+Error loading the model: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+Error loading the model: Error when deserializing class 'InputLayer' using config={'batch_shape': [None, 128, 128, 3], 'dtype': 'float32', 'sparse': False, 'name': 'input_layer_1'}.
+
+Exception encountered: Unrecognized keyword arguments: ['batch_shape']
+An error occurred: [WinError 2] The system cannot find the file specified: 'temp_image.jpg'
+An error occurred: in user code:
+
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2440, in predict_function  *
+        return step_function(self, iterator)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2425, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2413, in run_step  **
+        outputs = model.predict_step(data)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2381, in predict_step
+        return self(x, training=False)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\input_spec.py", line 298, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "model" is incompatible with the layer: expected shape=(None, 224, 224, 3), found shape=(None, 128, 128, 3)
+
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: in user code:
+
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2440, in predict_function  *
+        return step_function(self, iterator)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2425, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2413, in run_step  **
+        outputs = model.predict_step(data)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2381, in predict_step
+        return self(x, training=False)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\input_spec.py", line 298, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "model" is incompatible with the layer: expected shape=(None, 224, 224, 3), found shape=(None, 128, 128, 3)
+
+An error occurred: in user code:
+
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2440, in predict_function  *
+        return step_function(self, iterator)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2425, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2413, in run_step  **
+        outputs = model.predict_step(data)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2381, in predict_step
+        return self(x, training=False)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\input_spec.py", line 298, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "model" is incompatible with the layer: expected shape=(None, 224, 224, 3), found shape=(None, 128, 128, 3)
+
+An error occurred: in user code:
+
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2440, in predict_function  *
+        return step_function(self, iterator)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2425, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2413, in run_step  **
+        outputs = model.predict_step(data)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2381, in predict_step
+        return self(x, training=False)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\input_spec.py", line 298, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "model" is incompatible with the layer: expected shape=(None, 224, 224, 3), found shape=(None, 128, 128, 3)
+
+An error occurred: in user code:
+
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2440, in predict_function  *
+        return step_function(self, iterator)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2425, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2413, in run_step  **
+        outputs = model.predict_step(data)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2381, in predict_step
+        return self(x, training=False)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\input_spec.py", line 298, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "model" is incompatible with the layer: expected shape=(None, 224, 224, 3), found shape=(None, 128, 128, 3)
+
+An error occurred: list index out of range
+An error occurred: in user code:
+
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2440, in predict_function  *
+        return step_function(self, iterator)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2425, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2413, in run_step  **
+        outputs = model.predict_step(data)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2381, in predict_step
+        return self(x, training=False)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\input_spec.py", line 298, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "sequential_1" is incompatible with the layer: expected shape=(None, 128, 128, 3), found shape=(None, 124, 124, 3)
+
+An error occurred: in user code:
+
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2440, in predict_function  *
+        return step_function(self, iterator)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2425, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2413, in run_step  **
+        outputs = model.predict_step(data)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2381, in predict_step
+        return self(x, training=False)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\input_spec.py", line 298, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "sequential_1" is incompatible with the layer: expected shape=(None, 128, 128, 3), found shape=(None, 124, 124, 3)
+
+An error occurred: in user code:
+
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2440, in predict_function  *
+        return step_function(self, iterator)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2425, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2413, in run_step  **
+        outputs = model.predict_step(data)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2381, in predict_step
+        return self(x, training=False)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\input_spec.py", line 298, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "sequential_1" is incompatible with the layer: expected shape=(None, 128, 128, 3), found shape=(None, 124, 124, 3)
+
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: Graph execution error:
+
+Detected at node sequential_1/conv2d_3/Relu defined at (most recent call last):
+  File "C:\Users\ajay\AppData\Local\Programs\Python\Python311\Lib\threading.py", line 995, in _bootstrap
+
+  File "C:\Users\ajay\AppData\Local\Programs\Python\Python311\Lib\threading.py", line 1038, in _bootstrap_inner
+
+  File "C:\Users\ajay\AppData\Local\Programs\Python\Python311\Lib\threading.py", line 975, in run
+
+  File "C:\Users\ajay\AppData\Local\Programs\Python\Python311\Lib\socketserver.py", line 691, in process_request_thread
+
+  File "C:\Users\ajay\AppData\Local\Programs\Python\Python311\Lib\socketserver.py", line 361, in finish_request
+
+  File "C:\Users\ajay\AppData\Local\Programs\Python\Python311\Lib\socketserver.py", line 755, in __init__
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\werkzeug\serving.py", line 390, in handle
+
+  File "C:\Users\ajay\AppData\Local\Programs\Python\Python311\Lib\http\server.py", line 432, in handle
+
+  File "C:\Users\ajay\AppData\Local\Programs\Python\Python311\Lib\http\server.py", line 420, in handle_one_request
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\werkzeug\serving.py", line 362, in run_wsgi
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\werkzeug\serving.py", line 325, in execute
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\werkzeug\debug\__init__.py", line 330, in debug_application
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\flask\app.py", line 1488, in __call__
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\flask\app.py", line 1463, in wsgi_app
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\flask\app.py", line 870, in full_dispatch_request
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\flask\app.py", line 855, in dispatch_request
+
+  File "C:\Users\ajay\Documents\python\fish\app.py", line 46, in predict
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\utils\traceback_utils.py", line 65, in error_handler
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2655, in predict
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2440, in predict_function
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2425, in step_function
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2413, in run_step
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2381, in predict_step
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\utils\traceback_utils.py", line 65, in error_handler
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 590, in __call__
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\utils\traceback_utils.py", line 65, in error_handler
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\base_layer.py", line 1149, in __call__
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\utils\traceback_utils.py", line 96, in error_handler
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\sequential.py", line 398, in call
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\functional.py", line 515, in call
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\functional.py", line 672, in _run_internal_graph
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\utils\traceback_utils.py", line 65, in error_handler
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\base_layer.py", line 1149, in __call__
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\utils\traceback_utils.py", line 96, in error_handler
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\layers\convolutional\base_conv.py", line 321, in call
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\activations.py", line 306, in relu
+
+  File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\backend.py", line 5395, in relu
+
+input depth must be evenly divisible by filter depth: 1 vs 3
+	 [[{{node sequential_1/conv2d_3/Relu}}]] [Op:__inference_predict_function_1198]
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: in user code:
+
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2440, in predict_function  *
+        return step_function(self, iterator)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2425, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2413, in run_step  **
+        outputs = model.predict_step(data)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2381, in predict_step
+        return self(x, training=False)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\input_spec.py", line 298, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "sequential_1" is incompatible with the layer: expected shape=(None, 128, 128, 3), found shape=(None, 150, 150, 3)
+
+An error occurred: in user code:
+
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2440, in predict_function  *
+        return step_function(self, iterator)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2425, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2413, in run_step  **
+        outputs = model.predict_step(data)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2381, in predict_step
+        return self(x, training=False)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\input_spec.py", line 298, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "sequential_1" is incompatible with the layer: expected shape=(None, 128, 128, 3), found shape=(None, 150, 150, 3)
+
+An error occurred: in user code:
+
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2440, in predict_function  *
+        return step_function(self, iterator)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2425, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2413, in run_step  **
+        outputs = model.predict_step(data)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2381, in predict_step
+        return self(x, training=False)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\input_spec.py", line 298, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "sequential_1" is incompatible with the layer: expected shape=(None, 128, 128, 3), found shape=(None, 150, 150, 3)
+
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: in user code:
+
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2440, in predict_function  *
+        return step_function(self, iterator)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2425, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2413, in run_step  **
+        outputs = model.predict_step(data)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\training.py", line 2381, in predict_step
+        return self(x, training=False)
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\utils\traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "C:\Users\ajay\Documents\python\myenv\Lib\site-packages\keras\src\engine\input_spec.py", line 280, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Exception encountered when calling layer 'model_1' (type Functional).
+    
+    Input 0 of layer "Conv1" is incompatible with the layer: expected axis -1 of input shape to have value 3, but received input with shape (None, 224, 224, 1)
+    
+    Call arguments received by layer 'model_1' (type Functional):
+      • inputs=tf.Tensor(shape=(None, 224, 224, 1), dtype=float32)
+      • training=False
+      • mask=None
+
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: list index out of range
+An error occurred: argument 1 must be sequence of length 2, not 3
+An error occurred: [WinError 2] The system cannot find the file specified: 'temp_image.jpg'

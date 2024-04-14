@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>Fish Species Classifier</title>
+</head>
+
+<body>
+    <header>
+        <h3 class="logo" style="color: white; font-size: 30px;">LOGO</h3>
+        <nav>
+            <ul class="nav_links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">About</a></li>
+            </ul>
+        </nav>
+        <a class="cta" href="#"><button>Contact</button></a>
+    </header>
+    <section class="landing">
+        <div class="c3">
+            <h1 style="color: white;"> Fish Species <br><span class="word">Identification</span></h1>
+        </div>
+        <a href="#" class="explore" style="color: white;"><button style="color: white;">Explore More</button></a>
+    </section>
+    <section class="predict">
+        <div class="container">
+            <h1 class="predict_word">Fish Species <br><span class="text">Classifier</span></h1>
+            <input type="file" id="imageInput" accept="image/*">
+            <button onclick="predict()" class="btn-predict">Predict</button>
+            <span id="result"></span>
+            <img id="uploadedImage" src="#" alt="Uploaded Image">
+        </div>
+    </section>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+
+</html>
